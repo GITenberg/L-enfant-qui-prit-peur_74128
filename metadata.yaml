@@ -1,0 +1,37 @@
+_repo: L-enfant-qui-prit-peur_74128
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilbert de Voisins, Auguste
+    aliases:
+    - De Voisins, Gilbert
+    - Voisins, Gilbert de
+    - Voisins, Auguste Gilbert de
+    - Gilbert de Voisins, Auguste, comte
+    birthdate: 1877
+    deathdate: 1939
+    gutenberg_agent_id: '46652'
+    url: http://www.gutenberg.org/2009/agents/46652
+    wikipedia: https://fr.wikipedia.org/wiki/Auguste_Gilbert_de_Voisins
+description: ''
+gutenberg_issued: '2024-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74128'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065817887
+pgterms:marc905: 20231219121430gilbertdev
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bGeorges Crès, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+- GITenberg
+title: L'enfant qui prit peur
+url: http://www.gutenberg.org/ebooks/74128
